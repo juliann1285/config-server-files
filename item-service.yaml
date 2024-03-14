@@ -1,0 +1,5 @@
+server:
+  port: 8005
+
+config:
+  text: DEV_ENV_CONFIG
