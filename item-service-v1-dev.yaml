@@ -1,0 +1,8 @@
+server:
+  port: 8006
+
+config:
+  text: DEV_ENV_CONFIG
+  author:
+    name: Julian Navarro
+    email: julian.navarro@jnsoft.com

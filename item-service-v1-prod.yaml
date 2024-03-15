@@ -1,0 +1,8 @@
+server:
+  port: 8007
+
+config:
+  text: PROD_ENV_CONFIG
+  author:
+    name: Julian Navarro
+    email: julian.navarro@jnsoft.com
