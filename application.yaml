@@ -1,0 +1,8 @@
+config:
+  security:
+    oauth:
+      client:
+        id: frontend-app
+        secret: hardcoded-password-123456
+      jwt:
+        key: secreto_hardcodeado_123456
