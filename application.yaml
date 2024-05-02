@@ -6,3 +6,11 @@ config:
         secret: hardcoded-password-123456
       jwt:
         key: secreto_hardcodeado_123456
+
+spring:
+  zipkin:
+    base-url: http://mssbce-zipkin-server:9411
+    sender:
+      type: rabbit
+  rabbitmq:
+    host: rabbitmq
